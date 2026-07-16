@@ -1,6 +1,6 @@
-# Huang Cong的博客 :link: https://Xiruor.github.io 
-### :page_facing_up: [1](https://Xiruor.github.io/tag.html) 
+# Huang Cong的博客 | 全栈开发笔记 :link: shturl.cc/ehxL3rTJK0rranRHb 
+### :page_facing_up: [1](shturl.cc/ehxL3rTJK0rranRHb/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 59 
-### :alarm_clock: 2026-07-09 22:20:47 
+### :alarm_clock: 2026-07-16 20:58:51 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
