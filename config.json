@@ -1,6 +1,22 @@
 {
-    "title":"黄聪的博客",
-    "subTitle":"欢迎来到我的博客，虽然目前没有什么内容",
-    "avatarUrl":"https://avatars.githubusercontent.com/u/190709865?s=400&u=d460fe244cf9d69db39a98a3329b46f653a2f446&v",
-    "GMEEK_VERSION":"last"
+    "title": "Huang Cong的博客 | 全栈开发笔记",
+    "subTitle": "分享我的一些项目",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/190709865?s=400&u=d460fe244cf9d69db39a98a3329b46f653a2f446&v",
+    "GMEEK_VERSION": "last",
+    // 1. 自定义域名（你已配置blog.hcblog.ccwu.cc）
+    "homeUrl": "https://blog.hcblog.ccwu.cc",
+    // 2. 主题切换：跟随系统明暗模式
+    "themeMode": "system",
+    // 3. 开启文章评论（访客可留言提问项目）
+    "needComment": true,
+    // 4. 导航按钮
+    "exlink": {
+        "全息网络系统-仓库": "https://github.com/Xiruor/Holographic_network
+",       
+    },
+    
+    // 7. 自定义首页CSS美化（柔和卡片、hover动效）
+    "indexStyle": ".post-item{border-radius:12px;margin-bottom:16px;padding:16px;transition:0.3s;}.post-item:hover{box-shadow:0 4px 20px rgba(0,100,255,0.1);transform:translateY(-2px);}",
+    // 8. 自定义页脚文字
+    "footerInfo": "©2026 Huang Cong | 全息网络系统全栈开发者 | Powered by Gmeek & GitHub Pages"
 }
