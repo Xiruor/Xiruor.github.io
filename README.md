@@ -1,4 +1,4 @@
-# 黄聪的博客 :link: https://Xiruor.github.io 
+# Huang Cong的博客 :link: https://Xiruor.github.io 
 ### :page_facing_up: [1](https://Xiruor.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 59 
