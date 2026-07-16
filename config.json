@@ -6,8 +6,10 @@
     "homeUrl": "shturl.cc/vhpqiuioITCKGbMP0",
     "themeMode": "system",
     "needComment": true,
+    "i18n": "CN",
+    "UTC": 8,
     "exlink": {
-        "全息网络洞察系统-仓库": "https://github.com/Xiruor/Holographic_network"
+        "全息网络洞察系统-仓库": "https://github.com/Xiruer/Holographic_network"
     },
     "indexStyle": ".post-item{border-radius:12px;margin-bottom:16px;padding:16px;transition:0.3s;}.post-item:hover{box-shadow:0 4px 20px rgba(0,100,255,0.1);transform:translateY(-2px);}",
     "footerInfo": "©2026 Huang Cong | 全息网络系统全栈开发者 | Powered by Gmeek & GitHub Pages"
