@@ -1,19 +1,11 @@
 {
     "title":"Huang Cong的博客",
-    "subTitle":"全栈开发笔记",
-    "avatarUrl":"https://github.com/Xiruor.png",
+    "subTitle":"欢迎开到我的博客",
+    "avatarUrl":"https://avatars.githubusercontent.com/u/190709865?v=4&size=64",
     "GMEEK_VERSION":"last",
-
-    "singlePage":["about"],
-    "iconList": {
-        "project": "M10 0C4.5 0 0 4.5 0 10s4.5 10 10 10 10-4.5 10-10S15.5 0 10 0zm3.5 14.5L7 10l6.5-4.5v9z"
-    },
     "exlink": {
         "project": "https://github.com/Xiruor/Holographic_network"
     },
-
-    "indexStyle": "#header h1 { position: absolute; left: 50%; transform: translateX(-50%); display: flex; flex-direction: column; align-items: center; margin-top: 150px; } .avatar { width: 150px; height: 150px; border-radius: 50%; } .title-right { margin-left: 50%; margin-top: 350px; transform: translateX(-50%); } #header h1 a { margin-top: 20px; }",
-
     "style": "",
     "script": "",
     "commentLabelColor": "#006b75",
