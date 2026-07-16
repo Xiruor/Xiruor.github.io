@@ -1,16 +1,30 @@
 {
-    "title": "Huang Cong的博客 | 全栈开发笔记",
-    "subTitle": "分享我的一些项目",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/190709865?v=4&size=64",
-    "GMEEK_VERSION": "last",
-    "homeUrl": "https://xiruer.github.io",
-    "themeMode": "system",
-    "needComment": true,
-    "i18n": "CN",
-    "UTC": 8,
-    "exlink": {
-        "全息网络洞察系统-仓库": "https://github.com/Xiruer/Holographic_network"
+    "title":"Huang Cong的博客",
+    "subTitle":"全栈开发笔记",
+    "avatarUrl":"https://github.com/Xiruor.png",
+    "GMEEK_VERSION":"last",
+
+    "singlePage":["about"],
+    "iconList": {
+        "project": "M10 0C4.5 0 0 4.5 0 10s4.5 10 10 10 10-4.5 10-10S15.5 0 10 0zm3.5 14.5L7 10l6.5-4.5v9z"
     },
-    "indexStyle": ".post-item{border-radius:12px;margin-bottom:16px;padding:16px;transition:0.3s;}.post-item:hover{box-shadow:0 4px 20px rgba(0,100,255,0.1);transform:translateY(-2px);}",
-    "footerInfo": "©2026 Huang Cong | 全息网络系统全栈开发者 | Powered by Gmeek & GitHub Pages"
+    "exlink": {
+        "project": "https://github.com/Xiruor/Holographic_network"
+    },
+
+    "indexStyle": "#header h1 { position: absolute; left: 50%; transform: translateX(-50%); display: flex; flex-direction: column; align-items: center; margin-top: 150px; } .avatar { width: 150px; height: 150px; border-radius: 50%; } .title-right { margin-left: 50%; margin-top: 350px; transform: translateX(-50%); } #header h1 a { margin-top: 20px; }",
+
+    "style": "",
+    "script": "",
+    "commentLabelColor": "#006b75",
+    "yearColorList": ["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "UTC":8,
+    "themeMode":"manual",
+    "dayTheme":"light",
+    "nightTheme":"dark_colorblind",
+    "urlMode":"pinyin",
+    "showPostSource":"1",
+    "rssSplit":"sentence",
+    "bottomText":"转载请注明出处"
 }
